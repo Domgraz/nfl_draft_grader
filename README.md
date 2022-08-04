@@ -14,7 +14,7 @@ This project was made in my free time after the 2022 NFL Draft in order to compa
 Project is created with:
 * Python 3.9.6
 * Pandas
-* Matplot lib
+* Matplotlib
 	
 ## How it works
 * Once the program is run the user will input a player chosen in the 2022 NFL Draft 
