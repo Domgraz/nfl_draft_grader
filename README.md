@@ -24,7 +24,7 @@ Project is created with:
 * Once the input is recorded then there will be a generated plot displayed, the grades shown as output, and a csv of this same output
 
 ## Example graph
-This is the graph generated using the Ravens selections in the draft, if the number of the y axis is negative it shows they were picked later than expected and therefore good value and vice versa for a positive number.
+This is the graph generated using the Ravens selections in the draft, if the number of the y axis is positive it shows they were picked later than expected and therefore good value and if it is negative, the player was picked before they were expected and would be bad value.
 
 <img width="1792" alt="Screen Shot 2022-08-04 at 5 14 59 PM" src="https://user-images.githubusercontent.com/78738370/182954173-85a39abe-b31f-43e4-9224-af66dd94a99c.png">
 
