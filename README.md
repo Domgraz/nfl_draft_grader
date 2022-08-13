@@ -3,9 +3,9 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [How it works](how-it-works)
+* [How it works](#how-it-works)
 * [Example graph](#example-graph)
-* [Example output](example-output)
+* [Example output](#example-output)
 
 ## General info
 This project was made in my free time after the 2022 NFL Draft in order to compare where players were selected in comparision to their concensus rank in the draftable class. This was to see which teams had the best percieved value out of their picks.
